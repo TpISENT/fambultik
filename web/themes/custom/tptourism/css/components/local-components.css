@@ -1,0 +1,10 @@
+/**
+ * @file
+ * Use this CSS file to override components CSS rules
+ */
+
+/* products views - layout switcher */
+#block-tptourism-productslayoutswithergridactive,
+#block-tptourism-productslayoutswitcherlistactive {
+  padding-bottom: 10px;
+}

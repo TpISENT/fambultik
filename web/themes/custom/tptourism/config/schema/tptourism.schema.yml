@@ -1,0 +1,5 @@
+# Schema for the configuration files of the TpTourism theme.
+
+tptourism.settings:
+  type: theme_settings
+  label: 'TpTourism settings'
